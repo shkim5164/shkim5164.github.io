@@ -1,0 +1,142 @@
+#topMenu {  
+    height: 30px; 
+    width: 100%; 
+    
+} 
+    
+#topMenu  { 
+    color: white; 
+    background-color: #2d2d2d; 
+    line-height: 30px; 
+    vertical-align: middle; 
+    text-align: center; 
+    }
+#topMenu .menuLink { 
+    float: left;
+    text-decoration:none; 
+    color: white; 
+    display: block; 
+    width: 25%; 
+    font-size: 12px; 
+    font-weight: bold; 
+    font-family: "Trebuchet MS", Dotum, Arial; 
+}
+#topMenu .menuLink2 { 
+    float: left;
+    text-decoration:none; 
+    color: white; 
+    display: block; 
+    width: 25%; 
+    font-size: 12px; 
+    font-weight: bold; 
+    font-family: "Trebuchet MS", Dotum, Arial; 
+}
+#topMenu .menuLink3 { 
+    text-decoration:none; 
+    float: left;
+    color: white; 
+    display: block; 
+    width: 25%; 
+    font-size: 12px; 
+    font-weight: bold; 
+    font-family: "Trebuchet MS", Dotum, Arial; 
+}
+#topMenu .menuLink4 { 
+    text-decoration:none; 
+    color: white; 
+    display: block; 
+    width: 25%; 
+    float: left;
+    font-size: 12px; 
+    font-weight: bold; 
+    font-family: "Trebuchet MS", Dotum, Arial; 
+}
+
+#contents {
+    height: 600px; 
+    width: 100%;
+    background-image: url(http://www.industrysolutions.co.kr/wp-content/uploads/2014/07/20140702_011715.jpg);
+    color: white;
+     
+    
+}
+#contents #title { 
+    text-decoration:none; 
+    color: white; 
+    display: block; 
+    line-height: 300px;
+    width: 100%; 
+    vertical-align: middle; 
+    text-align: center; 
+    font-weight: bold; 
+    font-family: "Trebuchet MS", Dotum, Arial; 
+}
+#contents #para { 
+    text-decoration:none; 
+    color: white; 
+    display: block; 
+    width: 100%; 
+    vertical-align: middle; 
+    text-align: center; 
+    font-weight: bold; 
+    font-family: "Trebuchet MS", Dotum, Arial; 
+}
+#pictures {
+    height: 400px; 
+    width: 100%;
+    background-color: white;
+    color: black;
+    margin-top: 15px;
+    vertical-align: middle; 
+    text-align: center; 
+    font-weight: bold; 
+    font-family: "Trebuchet MS", Dotum, Arial; 
+
+}
+
+#pictures .first { 
+    width: 33%; 
+    float: left;
+    padding-top: 40px;
+    border: 1px solid blue;
+}
+#pictures .first img{ 
+    width: 50%; 
+    height: 50%;
+}
+
+#pictures .second { 
+    width: 33%; 
+    float: left;
+    padding-top: 40px;
+    border: 1px solid blue;
+}
+#pictures .second img{ 
+    width: 50%; 
+    height: 50%;
+}
+#pictures .third { 
+    width: 33%; 
+    float: left;
+    padding-top: 40px;
+    border: 1px solid blue;
+}
+#pictures .third img{ 
+    width: 50%; 
+    height: 50%;
+}
+#footer {
+    background-color: black;
+    height: 100px; 
+    width: 100%;
+    color: white;
+    margin-top: 15px;
+    
+}
+#footer .copyy {
+    vertical-align: middle; 
+    line-height: 100px;
+    text-align: center; 
+    font-weight: bold; 
+    font-family: "Trebuchet MS", Dotum, Arial; 
+}

@@ -1,0 +1,74 @@
+@import url('http://fonts.googleapis.com/earlyaccess/nanumgothic.css');
+
+* {font-family:'Nanum Gothic';}
+.container {
+    width: 960px;
+}
+/*.contents {*/
+/*    line-height: 15px;*/
+/*    vertical-align: middle;*/
+/*    margin-left: 100px; */
+/*}*/
+/*.header {*/
+    
+/*}*/
+/*nav{*/
+/*    height: 70px;*/
+/*    width: 100%;*/
+/*    border: 1px solid black;*/
+/*}*/
+/*header {*/
+/*    width: 100%;*/
+/*    margin-top: 10px;*/
+/*    height: 600px;*/
+/*    border: 1px solid black;*/
+/*  background-image: url(http://www.industrysolutions.co.kr/wp-content/uploads/2014/07/20140702_011715.jpg)*/
+    
+/*}*/
+/*section {*/
+/*    width: 100%;*/
+/*    margin-top: 10px;*/
+/*    height: 300px;*/
+    
+/*}*/
+/*nav {*/
+/*    width: 100%;*/
+/*    margin-top:20px;*/
+/*    margin-bottom: 15px;*/
+/*}*/
+/*nav a {*/
+    
+/*    padding: 23px 15px 15px 15px;*/
+    
+/*}*/
+/*#h1 {*/
+/*    font-size: 25px;*/
+/*    float: left;*/
+/*}*/
+
+/*#naver {*/
+/*    float: right;*/
+/*}*/
+
+/*#daum {*/
+/*    float: right;*/
+/*}*/
+
+/* #dankook {*/
+/*    float: right;*/
+/*}*/
+
+/*#title {*/
+/*    color: white;*/
+/*    text-align: center;*/
+    /*margin-top: 200px;*/
+/*}*/
+
+/*#para {*/
+/*    color: white;*/
+/*    text-align: center;*/
+    /*width: 960px;*/
+    /*margin-left: 200px;*/
+    /*margin-right: 200px;*/
+    
+/*}*/
